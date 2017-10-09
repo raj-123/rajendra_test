@@ -1,0 +1,17 @@
+{
+    "name": "health-trace",
+    "version": "1.0.0",
+    "keywords": [
+      "util",
+      "functional",
+      "server",
+      "client",
+      "browser"
+    ],
+    "author": "Rajendra",
+    "contributors": [],
+    "dependencies": {
+      "body-parser": "file:node_modules\\body-parser"
+    }
+  }
+  
